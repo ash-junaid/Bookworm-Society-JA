@@ -1,4 +1,9 @@
-# Stripe Payments Integration Demo
+# The Bookworm Society - now powered by Stripe
+
+Find your next adventure at The Bookworm Society. Whether you are hunting for a dusty classic, the latest modern masterpiece, or a self-published indie treasure, our shelves are stocked just for you.
+We believe buying books should be as relaxing as reading them. Simply choose a book from the catalogue, breeze through our secure Stripe checkout, and let us handle the legwork. Your delivery will arrive at your doorstep in 2–3 business days - just enough time to brew that fresh cup of tea.
+
+### Project
 
 This project showcases a demo app for Stripe Payments using Node.js. It focuses on the use of a checkout page with the Payment Intents API.
 

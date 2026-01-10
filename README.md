@@ -14,7 +14,11 @@ Run the following command in the project root to install the required dependenci
 ```bash
 npm install
 ```
+Install the Stripe library
 
+```bash
+npm install stripe --save
+```
 ### Configuration
 
 Before running, ensure you replace the placeholder API keys with your own Stripe test credentials.

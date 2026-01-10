@@ -17,7 +17,8 @@ npm install
 
 ### Configuration
 
-Before running, ensure you replace the placeholder API keys with your own Stripe test credentials:
+Before running, ensure you replace the placeholder API keys with your own Stripe test credentials.
+Your account's unique keys can be found under Settings > Developers > Manage API Keys:
 
 1.  **Secret Key:** Update the key in `app.js`.
 2.  **Publishable Key:** Update the key in `views/checkout.hbs`.

@@ -3,7 +3,7 @@ const path = require('path');
 const exphbs = require('express-handlebars');
 
 // This is your test secret API key.
-const stripe = require('stripe')('sk_test_51SnYzvRcbl3Y2o46Q26NF3Ws6fokrdVN6ti2OWPxCWOhWOxoPrkDLqjUreM0Op9YYdlaV4SfIV1YVpWBBNP4bgCA004XDtpQxe');
+const stripe = require('stripe')('sk_test_51SnYzvRcbl3Y2o46w1Xs6sNMwDstPkdi2kW2iu26HnOxs6TWPsK9KqexWwBZDwHIKnoVg8Vl3T6BLWDag1LjSLmk00d845j0UG');
 
 var app = express();
 
